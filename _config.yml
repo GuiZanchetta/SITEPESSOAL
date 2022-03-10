@@ -1,0 +1,25 @@
+# SEO Values
+title: Guilherme Zanchetta
+tagline:
+description:
+url: zanchetta.me
+twitter: @zanchettagui
+logo:
+
+# Google Analytics ID
+google_analytics:
+
+# GitHub Values
+github:
+  owner_name: Zan
+  owner_url: https://github.com/GuiZanchetta/
+  repository_url: https://github.com/GuiZanchetta/SITEPESSOAL
+show_downloads: true
+show_header: true
+remote_theme: "dracula/gh-pages"
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
